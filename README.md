@@ -1,3 +1,6 @@
+> [!TIP]
+> **goofi 3.0 is in development!** Check out the development version at [KairosHive/goofi](https://github.com/KairosHive/goofi). It's still a work in progress, so expect rough edges. Feedback, bug reports, feature ideas and contributions are very welcome!
+
 <p align="center">
 <img src=https://github.com/dav0dea/goofi-pipe/assets/36135990/60fb2ba9-4124-4ca4-96e2-ae450d55596d width="150">
 </p>
